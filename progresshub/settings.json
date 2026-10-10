@@ -1,0 +1,9 @@
+{
+  "theme": "abyss",
+  "fullscreen": true,
+  "ai_key": "",
+  "ai_base": "https://api.openai.com/v1",
+  "ai_model": "gpt-4o-mini",
+  "lang": "en",
+  "accent": null
+}
